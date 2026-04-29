@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native';
 export default function InfoScreen() {
   const fellasBro = [
     { nome: "Brayan", ra: "1132051" },
-    { nome: "Rafaela Bilibio", ra: "colcoa o ra aqui" },
+    { nome: "Rafaela Bilibio", ra: "1137885" },
   ];
 
   return (
